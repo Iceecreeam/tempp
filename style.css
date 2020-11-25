@@ -1,0 +1,726 @@
+ul{list-style: none;}
+
+body{
+    background-image: url("images/bg.jpg");
+    font-family: 'Alice', serif;
+    font-size: 1.5vw;
+    line-height: 2vw;
+    margin: 0px;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #332e34;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .navbar a {
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    float: left;
+    display: block;
+    color: #fbd630;
+    text-align: center;
+    padding: 13px 25px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+h1, h2, h3{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+}
+
+.head, .mem-flex > h2{
+    font-size: 5vw;
+    line-height: 5vw;
+    padding-top: 4%
+}
+
+h2{
+    padding: 0px;
+    font-size: 4.2vw;
+    line-height: 3vw;
+}
+
+h3{
+    font-size: 3vw;
+}
+
+.mem-flex > h2{
+    font-size: 3vw;
+}
+
+img[alt*="album cover"]{
+    width: 65%;
+    display: block;
+    margin: 0 auto;
+}
+.trklist{
+    display: block;
+    margin-left: 40%;
+    margin-right: 20%;
+    line-height: 3vw;
+}
+.icon-flex-in{
+
+    padding-top: 0.2%;
+    padding-bottom: 8%;
+    display:flex;
+    margin: 0 auto;
+    width: 34%;
+    justify-content: space-between;
+}
+.icon-flex-in>a>img{
+    width: 5.8vw;
+}
+
+
+.mem-flex > h2{
+    font-size: 3vw;
+}
+
+.mem-flex > p, .idk-container>p{
+    font-family: 'Alice', serif;
+    font-size: 1.4vw;
+    line-height: 2.2vw;
+}
+
+.idk-container{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.idk-container > p{
+    width: 40%;
+}
+
+.mem-cont{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 80%;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.mem-flex{
+    width: 45%;
+}
+
+.mem-flex>img{
+    display: block;
+    width:80%;
+    margin: 0 auto;
+}
+
+.icon-flex{
+    margin: 0 auto;
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+    margin-left:2%;
+}
+
+.icon-flex>a>img{
+    width: 55%;
+    height: auto;
+}
+
+.about-vid{
+    border: 10px solid rgb(56, 44, 3);
+    margin: 0 auto;
+    display:block;
+    width:509px;
+    height:287px;
+}
+
+
+
+
+
+
+
+
+.apple{
+    margin: 0 auto;
+    display:block;
+    width:55%;
+    height: 55%;
+    padding-top: 0.2%;
+    padding-bottom: 0.5%;
+}
+
+.spotify{
+    margin: 0 auto;
+    display:block;
+    width:55%;
+    height: 80px;
+    padding-top:0.8%;
+    padding-bottom: 8%;
+}
+
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flex-item{
+    width: 23%;
+}
+
+.flex-item>img{
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.flex-item>p{
+    display: block;
+    text-align: center;
+}
+
+.shop{
+    display:"block";
+    text-align:center;
+}
+
+.flex-item>p{
+    text-decoration: none;
+    color: #332e34;
+}
+
+.shop>p{
+    color:#e72f2e;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+}
+
+.shop>a>button{
+    border: none;
+    background-color: #f78129;
+    color: #332e34;
+    font-family: 'Alice', serif;
+    font-size: larger;
+    padding: 15px 32px;
+    font-weight: bolder;
+}
+.shop>a>button:hover{
+    background-color: #e5e7d2;
+}
+
+
+
+.galcontainer{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+
+.gal-flex{
+    width: 24.8%;
+    height: auto;
+    padding: 0.1%;
+}
+
+
+
+
+
+.tour-flex>header{
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+    font-size:2.1vw;
+    padding-bottom: 10px;
+}
+
+video{
+    border: 10px solid rgb(56, 44, 3);
+    display: block;
+    align-self: center;
+    width: 40%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.container-tour{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 7%;
+    margin-right: 7%;
+    justify-content: space-between;
+}
+
+.tour-flex {
+    padding: 0.1%;
+    width: 30%;
+    margin-bottom: 30px;
+    line-height: 4px;
+}
+.tour-button{
+    width: 25%;
+    border: none;
+    background-color: #e5e7d2;
+    color: #e72f2e;
+    font-family: 'Alice', serif;
+    font-size: 1.5vw;
+    padding: 2px 2px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.tour.button:hover{
+    background-color: #332e34;
+    color: #f78129;
+}
+
+
+
+
+
+footer{
+    margin-top:6vw;
+}
+footer:not(h1){
+    font-family: 'Alice', serif;
+    font-size: 2vw;
+    line-height: 2vw;
+    background-color: #e5e7d2;
+    color: #e72f2e;
+}
+
+footer>h1, footer>div>div>h2{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    font-size: 3.8vw;
+}
+
+footer>h1{
+    background-color: #332e34;
+    font-size: 3vw;
+    color: #fbd630;
+    letter-spacing: 3px;
+    padding-top: 3vw;
+    padding-bottom: 3.2vw;
+}
+
+.cont{
+    padding-top:0px;
+    margin-top:0px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+
+.icon-cont{
+    padding: 70px 0;
+    display: block;
+    width: 30%;
+}
+
+.icon-cont>div>div{
+    display:flex;
+    width: 100%;
+    justify-content: space-around;
+    padding-bottom: 20px;
+}
+
+.icon-cont>div>div>a>img{
+    width: 3vw;
+}
+
+.new-cont{
+    padding: 70px 0;
+    display: block;
+    width: 40%;
+}
+
+.icon-cont>div>p{
+    font-size: 3.2vw;
+}
+
+input, select {
+    box-sizing: border-box;
+    margin-top: 3px;
+    margin-bottom: 12px;
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #f78129;
+    border-radius: 4px;
+    font-family: 'Alice', serif;
+    font-size: 1.5vw;
+    color: #f78129;
+}
+
+input[type=submit]{
+    border: 0px;
+    display:block;
+    margin: 0 auto;
+    width:40%
+}
+
+input[type=submit]:hover {
+    background-color: #332e34;
+}
+
+@media only screen and (min-width: 1500px){
+    .trklist{
+        margin-left: 43%;
+        margin-right: 30%;
+    }
+
+
+
+    .container-tour{
+        justify-content: space-between;
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+    .tour-flex {
+        max-width: 22.5%;
+        padding: 0.6%;
+    }
+}
+
+
+@media only screen and (min-width: 1285px){
+    .gal-container{
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .gal-flex {
+        max-width: 19.4%;
+        padding: 0.3%;
+    }
+    iframe{
+        width: 700px;
+        height: 395px
+    }
+
+}
+
+@media only screen and (max-width: 1260px){
+    .mem-flex > p, .idk-container>p{
+        font-size: 1.9vw;
+        line-height: 2.8vw;
+    }
+
+    .tour-flex:not(header){
+        font-size: 1.8vw;
+        line-height: 1.2vw;
+    }
+    video{
+        width: 50%;
+    }
+    .container-tour{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .tour-flex {
+        max-width: 32.5%;
+        padding: 0.2%;
+    }
+    .tour-flex>header{
+        font-size: 2.8vw;
+    }
+    .tour-flex>p{
+        font-size: 2.2vw;
+    }
+    
+    .tour-button{
+        width:37%;
+        font-size:27px;
+    }
+
+}
+
+@media only screen and (max-width: 1024px){
+    body{
+        font-size: 3.5vw;
+        line-height: 4.4vw;
+    }
+    .trklist{
+        line-height: 6vw;
+    }
+    .head{
+        margin-top: 3%
+    }
+    .navbar a {
+        font-size: 33px;
+    }
+    h2{
+        font-size: 4.8vw;
+        line-height: 3.5vw;
+    }
+    h3{
+        font-size: 4vw;
+    }
+    .container{
+        margin-left:10%;
+        margin-right:10%;
+    }
+    img[alt*="album cover"]{
+        width: 75%;
+    }
+    .flex-item{
+        width: 48%;
+    }
+    .apple{
+        width:60%;
+    }
+    .spotify
+    {
+        width: 60%;
+    }
+
+    .galcontainer{
+        margin-left: 0.3%;
+        margin-right: 0.3%;
+    }
+    .gal-flex {
+        width: 32.9%;
+        padding: 0.2%;
+    } 
+
+
+
+    .mem-flex > h2{
+        font-size: 6vw;
+    }
+    .flex-item>img{
+        width: 100%;
+    }
+    .icon-flex-in{
+        width: 60%;
+    }
+    .icon-flex-in>a>img{
+        width: 80px;
+    }
+    .trklist{
+        margin-left: 30%;
+        margin-right: 0%;
+    }
+
+
+    .mem-flex > p, .idk-container>p{
+        width: 100%;
+        font-size: 2.5vw;
+        line-height: 5vw;
+    }
+
+
+
+    
+ 
+    iframe{
+        margin: 0 auto;
+        display:block;
+        width:661px;
+        height:373px;
+        margin-bottom: 20px;
+    }
+    .mem-flex{
+        width: 100%;
+    }
+    .icon-flex{
+        margin: 0 auto;
+        width: 50%;
+    }
+    .icon-flex>a>img{
+        width: 40%;
+    }    
+    .icon-cont>div>div>a>img{
+        width: 6vw;
+    }
+}
+
+@media only screen and (max-device-width: 800px){
+    .head{
+        font-size: 7vw;
+        line-height: 8vw;
+    }
+    body{
+        font-size: 3.5vw;
+        line-height: 4.4vw;
+    }
+    h2{
+        font-size: 5vw;
+        line-height: 3.8vw;
+    }
+    h3{
+        font-size: 4.8vw;
+    }
+    .container{
+        margin-left:0%;
+        margin-right:0%;
+    }
+    img[alt*="album cover"]{
+        width: 90%;
+    }
+    .apple{
+        width:80%;
+    }
+    .spotify
+    {
+        width: 80%;
+    }
+    .trklist{
+        margin-left: 25%;
+        margin-right: 1%;
+    }
+}
+@media only screen and (max-width: 800px){
+
+    h2{
+        font-size: 5vw;
+        line-height: 3.8vw;
+    }
+    h3{
+        font-size: 4.8vw;
+    }
+    .container{
+        margin-left:0%;
+        margin-right:0%;
+    }
+    .icon-flex-in{
+        width: 60%;
+    }
+    img[alt*="album cover"]{
+        width: 90%;
+    }
+    .apple{
+        width:80%;
+    }
+    .spotify
+    {
+        width: 80%;
+    }
+    .trklist{
+        margin-left: 25%;
+        margin-right: 5%;
+    }
+}
+
+@media only screen and (max-device-width: 650px){
+    .trklist{
+        line-height: 5vw;
+    }
+    .navbar a {
+        padding: 40px 30px;
+        font-size: 50px;
+    }
+    .head{
+        font-size: 10vw;
+        margin-top: 12%
+    }
+    #bandname{
+        font-size: 7vw;
+    }
+    .galcontainer{
+        margin-left: 0.1%;
+        margin-left: 0.1%;
+        flex: wrap;
+    }
+    .gal-flex {
+        width: 49%;
+        padding: 0.5%;
+    }
+
+    .icon-flex-in{
+        width: 80%;
+    }
+
+    .icon-flex-in > a > img{
+        width:130px;
+    }
+
+
+    .mem-flex > p, .idk-container>p{
+        padding-top: 10%;
+        font-size: 4vw;
+        line-height: 7vw;
+    }
+
+
+
+    .icon-flex{
+        width: 60%;
+    }
+    .icon-flex>a>img{
+        width: 60%;
+    }
+
+    .icon-cont{
+        width: 60%;
+        padding: 0px;
+    }  
+    .icon-cont>div>div>a>img{
+        width: 10vw;
+    }
+    footer>div>div>h2{
+        font-size: 7.5vw;
+        padding-top: 12%;
+        padding-top: 7%;
+    }
+    footer:not(h1){
+        display:block;
+        margin: 0 auto;
+        background-color: #e5e7d2;
+        color: #e72f2e;
+    }
+    .icon-cont>div>p, .new-cont>form>div>label{
+        display: block;
+        text-align: center;
+        font-size: 5vw;
+        line-height: 4.5vw;
+    }
+    footer>h1{
+        font-size: 7vw;
+        padding-top: 5.9vw;
+        padding-bottom: 6.7vw;
+    }    
+    .new-cont{
+        width: 70%
+    }
+    input, select {
+        height: 10vw;
+        border-radius: 10px;
+        border-radius: 4px;
+        font-size: 4vw;
+        border: 4px solid #f78129;
+    }
+
+}
+
+@media only screen and (max-device-width: 540px){ 
+    video{
+        width: 60%;
+    }
+    .container-tour {
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+    .tour-flex {
+        max-width: 100%;
+        width: 46%;
+        padding: 0.5%;
+    }
+    .tour-flex>header{
+        font-size: 4.5vw;
+    }
+    .tour-flex>p{
+        font-size: 3vw;
+        font-weight: bold;
+    }
+    .tour-button{
+        font-size:46px;
+    }
+}
