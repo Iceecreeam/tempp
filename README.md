@@ -61,7 +61,7 @@ I used @media to change the font-size and line-height become larger and easier t
 - All text was typed by me
 
 ### Media
-- All images of the band and its members are from the band's [instagram](https://www.instagram.com/idkhow/?hl=en), [Dallon Weekes' instagram](https://www.instagram.com/dallonweekes/), and [Ryan Seaman's instagram](https://www.instagram.com/ryanseaman/).
+- All images of the band and its members are from [the band's Instagram](https://www.instagram.com/idkhow/?hl=en), [Dallon Weekes' Instagram](https://www.instagram.com/dallonweekes/), and [Ryan Seaman's Instagram](https://www.instagram.com/ryanseaman/).
 
 - Band logo is from [band's official website](https://idkhow.com/)
 
