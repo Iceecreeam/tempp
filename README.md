@@ -5,7 +5,7 @@ This is a website meant to be the main website for the two-piece band I Don't Kn
 The website is aimed at advertising the band's new album, giving new fans an idea of the aesthetics of the band, and giving existing fans a dose of new videos and lore that contribute to the band's image.
  
 ## Design Process
-This website is made for a band which started a few years ago and is still in the process of growing their discography and fanbase. I fist looked at their actual page (https://idkhow.com/ made in notepad). It is very focused on the lore of the band and newer fans might be confused (with the white figure that appears at the bottom). The website I made is aimed at making the website understandable for the masses and maybe make the band more appealing. It also advertises their merch a lot more to get fans' attention.
+This website is made for a band which started a few years ago and is still in the process of growing their discography and fanbase. I fist looked at their [actual page](https://idkhow.com/). It is very focused on the lore of the band and newer fans might be confused (with the white figure that appears at the bottom). The website I made is aimed at making the website understandable for the masses and maybe make the band more appealing. It also advertises their merch a lot more to get fans' attention.
 
 - As a new fan, I want to learn more about the band to understand their music more (about page is helpful)
 - As an existing fan, I want to find more details on the band members and get more photos of them, I also want to be more involved with the band (about and gallery page, newsletter to get involved)
@@ -31,41 +31,40 @@ This website is made for a band which started a few years ago and is still in th
 
 ### Features Left to Implement
 - Proper processing of user's credentials for newsletter
-- An in-built shop that would allow users to acces the other pages after browing the shop without changing tab / clicking back
--
-
+- An in-built shop with cart function that would allow users to access the other pages after browing the shop without changing tab / clicking back
+- Intergrate more of the band's lore / origin story into the website through images in the background and links to unlisted youtube videos to keep fans engaged
+- Use the band's instagram feed for images in the gallery page rather than avng to update them manually to ensure fans can get the most up-to-date content from the website
+- Make the band member's images change automatically in the about page to make returns to the website more interesting
+- Make hamburger menu instead of menu at the top
 ## Technologies Used
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [html](https://html.spec.whatwg.org/)
+    - The project uses **HTML** to build the structure of the website.
+- [css](https://www.w3.org/TR/CSS2/)
+    - The project uses **CSS** to do the presentation of the website.
 
 
 ## Testing
+1. Newsletter:
+    1. Go to any page except shop
+    2. Submitting form without name or email address would result in an error
+    3. Submitting form with name field including anything but capital and small letters would result in an error
+    4. Submmitting the form with the email field not written properly would result in an error
+    5. Not changing the continent field would submit the default, North America (the newsletters would mail based on north american time zone)
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+I used @media to change the font-size and line-height become larger and easier to read for tablets and phones. I also used it to resize flexboxes and images. so that they were more pleasing to the eye.
 
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- All text was typed by me
 
 ### Media
-- The photos used in this site were obtained from ...
+- All images of the band and its members are from the band's [instagram](https://www.instagram.com/idkhow/?hl=en), [Dallon Weekes' instagram](https://www.instagram.com/dallonweekes/), and [Ryan Seaman's instagram](https://www.instagram.com/ryanseaman/).
+
+- Band logo is from [band's official website](https://idkhow.com/)
+
+- All webpd images of products are from the [official shop](https://shop.idkhow.com/)
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration from the band I Don't Know How But They Found Me.
