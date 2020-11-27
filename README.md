@@ -67,6 +67,9 @@ I used @media to change the font-size and line-height become larger and easier t
 
 - All webpd images of products are from the [official shop](https://shop.idkhow.com/)
 
-### Acknowledgements
+- Video in about is from [Youtube](https://www.youtube.com/watch?v=7otqRu4qVcs) 
 
+- Video in tour page is from the band's official [Youtube](https://www.youtube.com/watch?v=7otqRu4qVcs) Channel
+
+### Acknowledgements
 - I received inspiration from the band I Don't Know How But They Found Me.
