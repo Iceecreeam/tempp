@@ -366,6 +366,7 @@ body{
     font-size: 1.5vw;
     line-height: 2vw;
     margin: 0px;
+    color: #332e34;
 }
 
 .navbar {
@@ -397,7 +398,7 @@ h1, h2, h3{
 .head, .mem-flex > h2{
     font-size: 5vw;
     line-height: 5vw;
-    padding-top: 4%
+    padding-top: 4%;
 }
 
 h2{

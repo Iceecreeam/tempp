@@ -1,13 +1,13 @@
 # ID_S10206234_Kua-Li-Min_Assg1_website
 
-This is a website meant to be the main website for the two-piece band I Don't Know How But They Found Me after the release of theit latest album, Razzmatazz. The website takes a lot of inspiration from the colour scheme of the album and tries to stay loyal to the theme that the band has. The website would allow fans to gain more insight to the band in both pictorial and text form. It also features the store in the main page to encourage fans to visit the main store.
+This is a website meant to be the main website for the two-piece band I Don't Know How But They Found Me after the release of theit latest album, Razzmatazz. The website takes a lot of inspiration from the colour scheme of the album and tries to stay loyal to the theme that the band has (1980s / 1990s). The website would allow fans to gain more insight to the band in both pictorial and text form. It also features the store in the main page to encourage fans to visit the main store.
 
 The website is aimed at advertising the band's new album, giving new fans an idea of the aesthetics of the band, and giving existing fans a dose of new videos and lore that contribute to the band's image.
 
 ![image of band](https://i.pinimg.com/736x/12/6e/53/126e53967a1b0ee97a11ea71bb8e0cd9.jpg)
  
 ## Design Process
-This website is made for a band which started a few years ago and is still in the process of growing their discography and fanbase. I fist looked at their [actual page](https://idkhow.com/). It is very focused on the lore of the band and newer fans might be confused (with the white figure that appears at the bottom). The website I made is aimed at making the website understandable for the masses and maybe make the band more appealing. It also advertises their merch a lot more to get fans' attention.
+This website is made for a band which started a few years ago and is still in the process of growing their discography and fanbase. I first looked at their [actual page](https://idkhow.com/). It is very focused on the lore of the band and newer fans might be confused (with the white figure that appears at the bottom). The website I made is aimed at making the website understandable for the masses and maybe make the band more appealing. It also advertises their merch a lot more to get fans' attention.
 
 - As a new fan, I want to learn more about the band to understand their music more (about page is helpful)
 - As an existing fan, I want to find more details on the band members and get more photos of them, I also want to be more involved with the band (about and gallery page, newsletter to get involved)
@@ -56,9 +56,9 @@ This website is made for a band which started a few years ago and is still in th
 I used @media to change the font-size and line-height become larger and easier to read for tablets and phones. I also used it to resize flexboxes and images. so that they were more pleasing to the eye.
 
 ## Credits
-
 ### Content
-- All text was typed by me
+- Normalise.css from Nicolas Gallangher
+- All descriptions were made by me
 
 ### Media
 - All images of the band and its members are from [the band's Instagram](https://www.instagram.com/idkhow/?hl=en), [Dallon Weekes' Instagram](https://www.instagram.com/dallonweekes/), and [Ryan Seaman's Instagram](https://www.instagram.com/ryanseaman/).
