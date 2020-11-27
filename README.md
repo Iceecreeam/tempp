@@ -38,6 +38,7 @@ This website is made for a band which started a few years ago and is still in th
 - Use the band's instagram feed for images in the gallery page rather than avng to update them manually to ensure fans can get the most up-to-date content from the website
 - Make the band member's images change automatically in the about page to make returns to the website more interesting
 - Make hamburger menu instead of menu at the top
+- A neater css file since I had to rush to combine 4 css files and that caused my css to become messy
 ## Technologies Used
 - [html](https://html.spec.whatwg.org/)
     - The project uses **HTML** to build the structure of the website.
