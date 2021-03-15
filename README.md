@@ -1,4 +1,4 @@
-#Project report
+# Project report
 
 This is a website meant to be the main website for the two-piece band I Don't Know How But They Found Me after the release of theit latest album, Razzmatazz. The website takes a lot of inspiration from the colour scheme of the album and tries to stay loyal to the theme that the band has (1980s / 1990s). The website would allow fans to gain more insight to the band in both pictorial and text form. It also features the store in the main page to encourage fans to visit the main store.
 
