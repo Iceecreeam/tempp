@@ -5,7 +5,7 @@ Foobar is a Python library for dealing with word pluralization.
 ## Team members
 
 | Name | Roles | Roles |
-|:--------------|:----------|:-|
+|:|:|:|
 | Tan Jie Sheng | role | placeholder |
 | Kua Li Min | <ul><li>Ideation (come up with ideas and solutions)</li><li>Design (colour scheme, UI, etc.)</li><li>Padlet submissions</li></ul> |  |
 | Chow Yun Cong | role | placeholder |
