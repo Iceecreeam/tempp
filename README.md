@@ -4,14 +4,11 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## Team members
 
-| Name | Student ID |
-|:--------------|:----------|
-<tr></tr>
-| Tan Jie Sheng | S10205049 |
-<tr></tr>
-| Kua Li Min | S10206234 |
-<tr></tr>
-| Chow Yun Cong | S10194206 |
+| Name | Roles | Roles |
+|:--------------|:----------|:-|
+| Tan Jie Sheng | role | placeholder |
+| Kua Li Min | <ul><li>Ideation (come up with ideas and solutions)</li><li>Design (colour scheme, UI, etc.)</li><li>Padlet submissions</li></ul> |  |
+| Chow Yun Cong | role | placeholder |
 
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
