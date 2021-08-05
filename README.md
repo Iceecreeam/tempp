@@ -39,6 +39,8 @@ Livre is an app for readers, tracking their reading habits by logging the length
 
 All tags look like the one above, with different text representing what it does. They are all located at the same spot, along with the Activity Name on the screen while portrait while some shift in landscape mode to allow for more space.
 
+Consistent UI makes UX better as users can rely on intuition. Tags make navigation easier.
+
 ### Catalogue Animations
 
 <img src="https://user-images.githubusercontent.com/72980567/128292740-9ca5435b-26cb-4e14-abf3-684014760482.gif" width="200" >
