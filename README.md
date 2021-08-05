@@ -55,6 +55,8 @@ All tags look like the one above, with different text representing what it does.
 
 ### Brief Explanation of Navigation Between Activities (Li Min)
 
+[a](https://user-images.githubusercontent.com/72980567/128299578-31ce26c2-599e-4f97-95bf-c48968d76cca.mp4)
+
 <img src="https://user-images.githubusercontent.com/72980567/127614329-7c791051-02b0-481a-a7b1-5a6376b2c898.png" width="600" >
 (Library can be replace with archive in most circumstances. For example, clicking catalogue while in achive then clicking back would bring one back to archive. However, this does not apply to scenarios B, C, and D in 
 
