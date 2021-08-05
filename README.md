@@ -41,9 +41,9 @@ All tags look like the one above, with different text representing what it does.
 
 ### Catalogue Animations
 
-<img src="https://user-images.githubusercontent.com/72980567/128292740-9ca5435b-26cb-4e14-abf3-684014760482.gif" width="600" >
-<img src="https://user-images.githubusercontent.com/72980567/128293059-68fcddf7-5b34-478f-b080-f218394c99fb.gif" width="600" >
-<img src="https://user-images.githubusercontent.com/72980567/128293652-2aed5a19-bffb-4da3-87f7-404ed9bbffc5.gif" width="600" >
+<img src="https://user-images.githubusercontent.com/72980567/128292740-9ca5435b-26cb-4e14-abf3-684014760482.gif" width="200" >
+<img src="https://user-images.githubusercontent.com/72980567/128293059-68fcddf7-5b34-478f-b080-f218394c99fb.gif" width="200" >
+<img src="https://user-images.githubusercontent.com/72980567/128293652-2aed5a19-bffb-4da3-87f7-404ed9bbffc5.gif" width="200" >
 
 
 All tags look like the one above, with different text representing what it does. They are all located at the same spot, along with the Activity Name on the screen while portrait while some shift in landscape mode to allow for more space.
